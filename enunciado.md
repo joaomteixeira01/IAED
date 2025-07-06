@@ -1,11 +1,7 @@
-# Enunciado do Projecto - IAED 2024/2025
+# Enunciado do Projecto - IAED 
 
-## Data da entrega intermédia (checkpoint): 21 de março de 2025, às 19h59m
-## Data de entrega: 7 de abril de 2025, às 19h59m
-
-## LOG alterações
-
-- 7-mar-25 - Publicação do enunciado.
+## Data da entrega intermédia (checkpoint): 21 de março, às 19h59m
+## Data de entrega: 7 de abril, às 19h59m
 
 ## 1. Introdução
 Pretende-se a construção de um sistema de gestão de vacinas
