@@ -1,5 +1,3 @@
-/* iaed25 - ist197226 - project */
-
 /*============================= PROJECT IAED IST ===================================*/
 /*                          Vaccine Management System                               */
 /*                        ist197226 - Joao Maria Teixeira                           */
